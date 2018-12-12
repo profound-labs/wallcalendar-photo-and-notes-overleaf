@@ -7,6 +7,8 @@
 *.fdb_latexmk
 
 # Project output
+main.pdf
+
 wallcalendar.zip
 doc/wallcalendar.pdf
 doc/wallcalendar-code.pdf

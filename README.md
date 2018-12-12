@@ -1,6 +1,8 @@
-# Wallcalendar LaTeX example for Overleaf
+# Wallcalendar in LaTeX, photo and notes layout
 
-Overleaf project: ...
+An example template for [Overleaf](https://overleaf.com)
+
+Overleaf template: ...
 
 See also `wallcalendar` on Github: https://github.com/profound-labs/wallcalendar
 
