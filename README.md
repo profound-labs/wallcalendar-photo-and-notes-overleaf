@@ -2,9 +2,9 @@
 
 An example template for [Overleaf](https://overleaf.com)
 
-Overleaf template: ...
+Open in Overleaf: https://www.overleaf.com/read/hzjpfdmspwds
 
-See also `wallcalendar` on Github: https://github.com/profound-labs/wallcalendar
+See also `wallcalendar` package on Github: https://github.com/profound-labs/wallcalendar
 
 ![Wallcalendar screenshot](./readme-assets/screenshot.jpg)
 
